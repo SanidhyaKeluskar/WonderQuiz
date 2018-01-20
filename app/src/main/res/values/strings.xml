@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WonderQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="Initial_Score">Score 0/7</string>
+    <string name="question_1">Grand Canyon is Located in Nevada state of USA</string>
+    <string name="question_2">Parícutin took almost a decade to erupt</string>
+    <string name="question_3">Victoria Falls is roughly twice the height of North Americas Niagara Falls</string>
+    <string name="question_4">Aurora Australis is visible from high southern latitudes in Argentina</string>
+    <string name="question_5">Great Barrier Reef is second largest Reef in the world</string>
+    <string name="question_6">Guanabara bay has 130 islands</string>
+    <string name="question_7">Mount Everest is 6000m tall</string>
+
+
+</resources>
